@@ -1,0 +1,38 @@
+.content {
+	background:white;
+	color:black;
+	padding:10px !important;
+	margin:0;	
+}
+
+.status {
+	width:15px;
+	height:15px;
+	vertical-align: text-top;
+	margin-top: 2px;
+}
+
+.vote_buttons {
+	margin-top:25px;
+	font-size: 21px;
+}
+
+.vote_buttons:hover {
+	cursor:pointer;
+}
+
+.vote_buttons.text-left:hover {
+	color: #ff6422;
+}
+
+.vote_buttons.text-right:hover {
+	color: #5c5bd7;
+}
+
+.upboated {
+	color: #ff6422;
+}
+
+.shitposted {
+	color: #5c5bd7;
+}
