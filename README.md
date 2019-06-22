@@ -1,3 +1,5 @@
-# good shit.
+# go
 
-you found our github.
+while u can.
+
+their scary
